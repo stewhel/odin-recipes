@@ -1,4 +1,3 @@
 # odin-recipes
-Recipe website for The Odin Project
 
-This is a website containing some of my favorite recipes.
+This is a simple website containing some of my favorite recipes.
