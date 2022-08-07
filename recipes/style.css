@@ -1,0 +1,14 @@
+/* This is my CSS style sheet */
+
+img{
+    width: 400px;
+    height: auto;
+}   
+
+body{
+    color: black   ;
+}
+
+*{
+    font-family: "Courier New";
+}

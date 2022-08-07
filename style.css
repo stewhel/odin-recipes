@@ -1,6 +1,15 @@
 /* This is the CSS style sheet for my website */
 
 *{
-    font-family: "Times New Roman", sans-serif;
+    font-family: "Courier New", sans-serif;
     text-align:center;
+}
+
+
+h1{
+    margin-bottom: 5px;
+}
+
+.subtitle{
+    margin: 0px;
 }
