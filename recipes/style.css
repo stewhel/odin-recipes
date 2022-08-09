@@ -2,13 +2,15 @@
 
 img{
     width: auto;
-    height: auto;
+    height: 100%;
 }   
 
 body{
     color: black;
+    margin-left: 20px
 }
 
 *{
     font-family: "Courier New";
 }
+
