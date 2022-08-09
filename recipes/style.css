@@ -1,12 +1,12 @@
 /* This is my CSS style sheet */
 
 img{
-    width: 400px;
+    width: auto;
     height: auto;
 }   
 
 body{
-    color: black   ;
+    color: black;
 }
 
 *{
